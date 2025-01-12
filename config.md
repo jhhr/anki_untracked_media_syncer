@@ -1,0 +1,2 @@
+`manage_dialog_shortcut`: You can edit this to change the shortcut to, e.g. "Ctrl+Shift+M". Set it to "" to remove it
+`sync_files`: This contains the files to be synced. Don't edit this. It's managed in the UI.

@@ -1,0 +1,13 @@
+#Anki
+meta.json
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# PyCharm
+.idea/
