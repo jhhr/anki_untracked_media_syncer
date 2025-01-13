@@ -1,11 +1,9 @@
-This addon will automatically sync untracked (prefixed with _) media files that have been edited since last sync.
-
-Normally merely editing an untracked file will not cause it to be uploaded on sync.
+This addon makes edited files in the collection.media folder get uploaded to AnkiWeb on sync.
 
 # How to use
 
 - Install addon
-- Now, whenever you sync in Anki, edited files in the collection.media folder will be uploaded to AnkiWeb as well.
+- Edit files, sync to upload.
 
 ## Possible conflicts, if you edit in two places at once before syncing
 
